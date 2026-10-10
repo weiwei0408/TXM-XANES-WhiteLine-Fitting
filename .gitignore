@@ -1,0 +1,8 @@
+# MATLAB
+*.asv
+*.m~
+*.slxc
+*.autosave
+
+# Ignore large data files (comment this line out if you provide sample data)
+*.mat
